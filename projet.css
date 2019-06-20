@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+
+body { background-color: #6a6393;  }
+img { width: 500px;}
+p {
+	font-size: 2em;
+	 color:#4a064f; 
+	 font-family: 'Roboto', sans-serif;
+	}
+h1 {font-size: 4em;}
+h2 {font-size: 3em;}
+#titre1 {font-size: 5em;}
+#titre2 {color: red;}
+.para {color: yellow;}
+a {font-size: 4em;}
